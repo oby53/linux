@@ -1,0 +1,7 @@
+Day4
+Execute the following commands after creating the directory and file
+NB: Remember to update the steps you took
+
+ls -la /tmp/xfusioncorp.sh 
+sudo chmod 555 /tmp/xfusioncorp.sh 
+ls -la /tmp/xfusioncorp.sh 
