@@ -1,0 +1,11 @@
+Day2
+Create a file name Day2 and add the following content to it using the echo command:
+I learnt file permissions and how to use the ls -l command to view file permissions
+I learnt how to use chmod command to change file permissions. 
+I also learnt how to use the ls command to list files and directories. 
+I also learnt how to use the echo command to add content to a file.
+I also learnt how to use the cat command to view the content of a file.    
+Use the chmod command to grant read, write and execute permissions to the owner of the file,
+read permissions to the group and no permissions to others.
+run ls -l to view the file permissions.
+run history 20 to view the last 20 commands you have executed.

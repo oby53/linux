@@ -1,0 +1,13 @@
+Day 3
+Ensure you are in the linux directory by typing pwd, else cd into linux directory
+Create 3 files using the touch command namely Day3, testfile1 and testfile2 respectively
+Create a directory called Demo
+Run the ls -l command to list the files and folder
+Move testfile1 into the Demo directory using the mv command
+Copy Day3 file into the Demo directory using the cp command
+cd into the Demo directory and run the ls -l command to confirm the files exists in the location
+Go back into the linux directory and delete the Demo directory with its file content using the rm -rf command
+Delete testfile2 using the rm command
+vi into Day3 file and using the insert command input all these instruction (use copy and paste)
+run history 20 and send screenshots
+
