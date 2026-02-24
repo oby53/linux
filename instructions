@@ -1,0 +1,5 @@
+Day 4
+Clone https://github.com/Nikiobilor/linux.git  into your Desktop directory using git clone command
+cd into the repo and copy file Day4 into your linux directory using cp Day4 /linux/
+cd into your linux directory and verify the Day4 file exists using ls -l  
+and then work from there.

@@ -1,0 +1,7 @@
+You work as the IT staff in a company, a new intern Sam started today.You received an email from HR to create Sam in the system with all the necessary credentials.
+Create user Sam
+Give Sam password Sam#123
+Create group interns
+Add Sam to the interns group 
+Grant group interns read only priviledges to the /tmp folder your created in Day4
+NB: Kindly outline the steps you took to finish this task.
