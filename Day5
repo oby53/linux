@@ -5,3 +5,12 @@ Create group interns
 Add Sam to the interns group 
 Grant group interns read only priviledges to the /tmp folder your created in Day4
 NB: Kindly outline the steps you took to finish this task.
+DAY 5 SOLUTION
+I created user sam using useradd
+I set password Sam#123 using passwd
+I created group interns using groupadd
+I added sam to interns group using usermod
+I verified group membership using groups
+I checked /tmp/xfusioncorp.sh
+I gave interns read-only access using chmod 740
+I verified permissions using ls -la
