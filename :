@@ -1,0 +1,20 @@
+Day4
+Execute the following commands after creating the directory and file
+NB: Remember to update the steps you took
+
+ls -la /tmp/xfusioncorp.sh 
+sudo chmod 555 /tmp/xfusioncorp.sh 
+ls -la /tmp/xfusioncorp.sh 
+
+
+Solution
+I created a directory named "tmp" using the mkdir command.
+I navigated into the tmp directory using the cd command and created a file called xfusioncorp.sh using the touch commands
+I used la -la command to verify that the xfusioncorp.sh file was successfully created
+I used sudo chmod 555 command to give read and execute permissions to owner, group and others.
+I used la -la command again to verify the permission for the xfusioncorp.sh file
+I did ctrl + s to save
+I did git add Day4
+I ran git status to see the staged files
+I ran git commit -m "uploaded Day4 file"
+I then pushed to my github account.
